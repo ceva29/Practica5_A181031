@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:C:\Users\HP\Desktop\SERVICIO WEB\Practica5_A181031/Ejemplo2.xsl"?>
+<Libros>
+  <Libro>
+    <Titulo>La musica en las catedrales españolas del Siglo de Oro</Titulo>
+    <Pais>Madrid</Pais>
+    <Autor>Robert Stevenson</Autor>
+  </Libro>
+  <Libro>
+     <Titulo>EL ARTE DE LA GUERRA</Titulo>
+    <Pais>Mexico</Pais>
+    <Autor>SUN TZU</Autor>
+  </Libro>
+  <Libro>
+     <Titulo>El libro negro de las marcas</Titulo>
+    <Pais>Mexico</Pais>
+    <Autor>Klaus Werner y Hans Weiss</Autor>
+  </Libro>
+  <Libro>
+     <Titulo>Arregla tu desmadre</Titulo>
+    <Pais>Madrid</Pais>
+    <Autor>Sara Knight</Autor>
+  </Libro>
+</Libros>
